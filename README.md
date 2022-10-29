@@ -23,15 +23,15 @@ Nous avons vu en TP que si une image chiffrée était bruitée alors le déchiff
 
 ## Missions
 <p align="justify">
- | N° | Description |
- | 1 | Décrire un état de l'art sur le débruitage d’images avec ou sans apprentissage profond. |
- | 2 | Décrire un état de l’art sur le chiffrement d’images par bloc et sur le partage d’images secrètes. |
- | 3 | Choisir une méthode de débruitage sans apprentissage profond et l’implémenter. |
- | 4 | Tester et analyser les résultats obtenus sur une base de données. Proposer une évaluation des résultats obtenus. |
- | 5 | Choisir une méthode basée sur un réseau de neurones convolutifs et l’implémenter. Tester, analyser les résultats obtenus et effectuer une comparaison avec les résultats obtenus précédemment (en utilisant la même base de données). |
- | 6 | Appliquer la méthode sans apprentissage profond et celle utilisant les réseaux de neurones convolutifs (sans réentraîner le modèle) sur une nouvelle base de données et analyser les résultats obtenus. |
-| 7 | Créer une démonstration sous la forme d'un logiciel avec une interface. |
- 
+ <ol>
+ <li>Décrire un état de l'art sur le débruitage d’images avec ou sans apprentissage profond.</li>
+ <li>Décrire un état de l’art sur le chiffrement d’images par bloc et sur le partage d’images secrètes.</li>
+ <li>Choisir une méthode de débruitage sans apprentissage profond et l’implémenter.</li>
+ <li>Tester et analyser les résultats obtenus sur une base de données. Proposer une évaluation des résultats obtenus.</li>
+ <li>Choisir une méthode basée sur un réseau de neurones convolutifs et l’implémenter. Tester, analyser les résultats obtenus et effectuer une comparaison avec les résultats obtenus précédemment (en utilisant la même base de données).</li>
+ <li>Appliquer la méthode sans apprentissage profond et celle utilisant les réseaux de neurones convolutifs (sans réentraîner le modèle) sur une nouvelle base de données et analyser les résultats obtenus.</li>
+<li>Créer une démonstration sous la forme d'un logiciel avec une interface.</li>
+  </ol>
  </p>
 
 ## Détails techniques
