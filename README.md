@@ -1,5 +1,7 @@
+<p align="center">
 # Débruitage par CNN d’images chiffrées ou secrètes bruitées
-
+</p>
+ 
 Bienvenu dans le dépot de projet pour l'UE __Images, Sécurité et Deeplearning__.
 Ce dépot regroupe notre travail sur le débruitage d'images chiffrées.
 <p align="center">
