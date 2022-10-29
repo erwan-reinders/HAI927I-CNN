@@ -3,9 +3,7 @@
 Bienvenu dans le dépot de projet pour l'UE __Images, Sécurité et Deeplearning__.
 Ce dépot regroupe notre travail sur le débruitage d'images chiffrées.
 <p align="center">
-<a href="http://78.193.65.81/webgl/TER_M1_moteur3D/RECA/">
-<img align="center" src="./Rendus/Images/presentation.jpg" width="500" height="300"/>
-</a>
+<img align="center" src="./Rendus/Images/presentation.jpg" width="300" height="300"/>
 </p>
 
 <b>Encadrants :</b>    
@@ -25,13 +23,15 @@ Nous avons vu en TP que si une image chiffrée était bruitée alors le déchiff
 
 ## Missions
 <p align="justify">
-- Décrire un état de l'art sur le débruitage d’images avec ou sans apprentissage profond.
-- Décrire un état de l’art sur le chiffrement d’images par bloc et sur le partage d’images secrètes.
-- Choisir une méthode de débruitage sans apprentissage profond et l’implémenter.
-- Tester et analyser les résultats obtenus sur une base de données. Proposer une évaluation des résultats obtenus.
-- Choisir une méthode basée sur un réseau de neurones convolutifs et l’implémenter. Tester, analyser les résultats obtenus et effectuer une comparaison avec les résultats obtenus précédemment (en utilisant la même base de données).
-- Appliquer la méthode sans apprentissage profond et celle utilisant les réseaux de neurones convolutifs (sans réentraîner le modèle) sur une nouvelle base de données et analyser les résultats obtenus.
-- Créer une démonstration sous la forme d'un logiciel avec une interface.
+ | N° | Description |
+ | 1 | Décrire un état de l'art sur le débruitage d’images avec ou sans apprentissage profond. |
+ | 2 | Décrire un état de l’art sur le chiffrement d’images par bloc et sur le partage d’images secrètes. |
+ | 3 | Choisir une méthode de débruitage sans apprentissage profond et l’implémenter. |
+ | 4 | Tester et analyser les résultats obtenus sur une base de données. Proposer une évaluation des résultats obtenus. |
+ | 5 | Choisir une méthode basée sur un réseau de neurones convolutifs et l’implémenter. Tester, analyser les résultats obtenus et effectuer une comparaison avec les résultats obtenus précédemment (en utilisant la même base de données). |
+ | 6 | Appliquer la méthode sans apprentissage profond et celle utilisant les réseaux de neurones convolutifs (sans réentraîner le modèle) sur une nouvelle base de données et analyser les résultats obtenus. |
+| 7 | Créer une démonstration sous la forme d'un logiciel avec une interface. |
+ 
  </p>
 
 ## Détails techniques
