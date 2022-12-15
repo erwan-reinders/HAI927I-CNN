@@ -38,9 +38,9 @@ Nous avons vu en TP que si une image chiffrée était bruitée alors le déchiff
 ## Détails techniques
 <p align="justify">
 Ce projet est fait via <b>Python</b>. Nous avons utilisé GoogleColab comme principal environnement de dévelopement. Nous avons utilisé les librairies :
- <ol>
+ <ul>
  <li>- Keras (TensorFlow)</li>
  <li>- OpenCV 2</li>
- </ol>
+ </ul>
 </p>
 
