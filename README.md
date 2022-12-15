@@ -37,10 +37,7 @@ Nous avons vu en TP que si une image chiffrée était bruitée alors le déchiff
 
 ## Détails techniques
 <p align="justify">
-Ce projet est fait via <b>Python</b>.
+Ce projet est fait via <b>Python</b>. Nous avons utilisé GoogleColab comme principal environnement de dévelopement. Nous avons utilisé les librairies :
+- Keras (TensorFlow)
+- OpenCV 2
 </p>
-
-<!-- 
-## Documentations :
-Aucune documentation n'est pour l'instant fournie.
--->
