@@ -44,3 +44,12 @@ Ce projet est fait via <b>Python</b>. Nous avons utilisé GoogleColab comme prin
  </ul>
 </p>
 
+
+
+## Explication du code
+### test_et_generation_autoencodeurs.ipynb
+Ce fichier comporte nos travaux sur les autoencodeurs. En première partie, il y a les premiers jets sur la défiinition d'un modèle grâce à un tutoriel. Ensuite, nous avons effectué des tests nous permettant de mieux comprendre l'architechture et les capacités d'un autoencodeur. Enfin, dans la troisième partie, il y a nos travaux sur les autoencodeurs utilisés dans le projet, ainsi que leurs évaluation et leurs applications.
+
+### Pipeline_processing.ipynb
+Dans ce fichier, nous avons mis en place dans un premier temps des fonctions de manipulation d'images [Initialisation] (affichage, chargement d'images, prétraitements potentiels, bruitage). Ensuite, nous avons réutilisé Pycriptodome pour le chiffrement. Nous avons ensuite mis en place des cellules d'exécution, pour enfin mettre en place un Pipeline de traitement [Scenarios > Working Pipeline] depuis lequel on peut définir des cellules d'exécution simplifiées.
+
