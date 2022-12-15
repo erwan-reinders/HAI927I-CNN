@@ -49,7 +49,7 @@ Ce projet est fait via <b>Python</b>. Nous avons utilisé GoogleColab comme prin
 ## Explication du code
 ### test_et_generation_autoencodeurs.ipynb
 <p align="justify">
-Ce fichier comporte nos travaux sur les autoencodeurs. En première partie, il y a les premiers jets sur la défiinition d'un modèle grâce à un tutoriel. Ensuite, nous avons effectué des tests nous permettant de mieux comprendre l'architecture et les capacités d'un autoencodeur. Enfin, dans la troisième partie, il y a nos travaux sur les autoencodeurs utilisés dans le projet, ainsi que leurs évaluation et leurs applications.
+Ce fichier comporte nos travaux sur les autoencodeurs. En première partie, il y a les premiers jets sur la défiinition d'un modèle grâce à un tutoriel. Ensuite, nous avons effectué des tests nous permettant de mieux comprendre l'architecture et les capacités d'un autoencodeur. Enfin, dans la troisième partie, il y a nos travaux sur les autoencodeurs utilisés dans le projet, ainsi que leurs évaluations et leurs applications.
 </p>
  
 ### Pipeline_processing.ipynb
